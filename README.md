@@ -1,2 +1,2 @@
 # QRCodeGenerator
-QR Code Generator using htnl, Css and Java-Script.
+QR Code Generator using html, Css and Java-Script.
